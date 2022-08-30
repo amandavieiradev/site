@@ -1,0 +1,40 @@
+
+*{
+    text-align:center;
+    margin-top: 30px;
+    background-color: antiquewhite;
+}
+
+#menu-principal{
+    list-style: none;
+    padding: 10%;
+}
+
+#menu-principal li{
+    display: inline;
+    color: rgb(105, 59, 2);
+}
+
+#menu-principal li a{
+    color: rgb(105, 59, 2);
+    padding: 10px;
+    text-decoration: rgb(226, 171, 103);
+    display: inline;
+}   
+
+img{
+    text-align: center;
+    height: 800px;
+
+}
+
+footer{
+    background-color: rgb(29, 18, 5);
+    height: 300px;
+}
+
+footer p{
+    height: 30px;
+    margin: 0%;
+    color: rgb(230, 214, 214);
+}
