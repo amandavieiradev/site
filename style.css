@@ -1,7 +1,7 @@
 *{
     text-align:center;
     margin-top: 30px;
-    background-color: antiquewhite;
+    background-color: white;
 }
 
 #menu-principal{
@@ -11,25 +11,25 @@
 
 #menu-principal li{
     display: inline;
-    color: rgb(105, 59, 2);
+    color: #5125ad;
 }
 
 #menu-principal button{
-    color: rgb(105, 59, 2);
+    color: #5125ad;
     padding: 20px;
-    text-decoration: rgb(226, 171, 103);
+    text-decoration: #72bb53;
     display: inline;
     font-size: 30px;
 }   
 
 #conteudo-do-instagram li a{
-    color:  rgb(105, 59, 2);
+    color:  #5125ad;
     font-size: 60px;
     display: inline;
 }
 
 h1{
-    color:  rgb(105, 59, 2);
+    color:  #72bb53;
     font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -40,7 +40,7 @@ img{
 }
 
 footer{
-    background-color: rgb(112, 66, 9);
+    background-color: #72bb53;
     height: 200px;
     width: auto;
 }
